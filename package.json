@@ -1,0 +1,28 @@
+{
+  "name": "antigravity-pink",
+  "displayName": "Anti-Gravity Pink",
+  "publisher": "hap4114",
+  "description": "Dark night mode with dreamy pink aesthetics",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hap4114/antigravity-pink.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anti-Gravity Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/antigravity-pink-color-theme.json"
+      }
+    ]
+  }
+}
