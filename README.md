@@ -6,7 +6,7 @@
 
 **A dark night mode VS Code theme with dreamy pink aesthetics**
 
-![Version](https://img.shields.io/badge/version-0.0.2-ff79c6?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.1.0-ff79c6?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-ff2d78?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-^1.70.0-cf6bff?style=flat-square)
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/hap4114.antigravity-pink?style=flat-square&color=ff79c6)
@@ -18,9 +18,9 @@
 
 ## 📸 Screenshots
 
-![Anti-Gravity Pink Theme](./screenshot1.png)
-![Anti-Gravity Pink Terminal](./screenshot2.png)
-![Anti-Gravity Pink Python](./screenshot3.png)
+| Editor View | Terminal & Logic | HTML & CSS |
+|---|---|---|
+| ![Editor](./screenshots/screenshot1.png) | ![Terminal](./screenshots/screenshot2.png) | ![HTML](./screenshots/screenshot3.png) |
 
 ---
 
