@@ -18,9 +18,9 @@
 
 ## 📸 Screenshots
 
-| JavaScript / TypeScript | HTML / CSS |
-|---|---|
-| ![JS Screenshot](./screenshots/screenshot1.png) | ![HTML Screenshot](./screenshots/screenshot2.png) |
+![Anti-Gravity Pink Theme](./screenshot1.png)
+![Anti-Gravity Pink Terminal](./screenshot2.png)
+![Anti-Gravity Pink Python](./screenshot3.png)
 
 ---
 
