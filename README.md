@@ -6,7 +6,7 @@
 
 **A dark night mode VS Code theme with dreamy pink aesthetics**
 
-![Version](https://img.shields.io/badge/version-0.0.1-ff79c6?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.0.2-ff79c6?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-ff2d78?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-^1.70.0-cf6bff?style=flat-square)
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/hap4114.antigravity-pink?style=flat-square&color=ff79c6)
@@ -127,6 +127,10 @@ Fully themed terminal with a complete pink ANSI palette:
 ---
 
 ## 🔄 Changelog
+
+### v0.0.2
+- Updated README with screenshots and documentation
+- Minor version bump
 
 ### v0.0.1 — Initial Release
 - Full dark pink theme
