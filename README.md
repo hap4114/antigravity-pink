@@ -16,14 +16,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Editor View | Terminal & Logic | HTML & CSS |
-|---|---|---|
-| ![Editor](./screenshots/screenshot1.png) | ![Terminal](./screenshots/screenshot2.png) | ![HTML](./screenshots/screenshot3.png) |
-
----
-
 ## ✨ Features
 
 - 🌑 Ultra dark background — easy on the eyes during long coding sessions
